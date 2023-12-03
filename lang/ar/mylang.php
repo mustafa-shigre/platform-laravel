@@ -1,0 +1,36 @@
+<?php
+return[
+    'welcome' => 'تم تسجيل دخولك بنجاح',
+    'welcome to for you in education plateform' =>'مرحبا بك في المنصة ',
+    'We provide you with many features' =>'نوفر لك العديد من الميزات ',
+    'this a platform goaled to make the students qualified for the labor market'=>'تهدف هذه المنصة إلى جعل الطلاب مؤهلين لسوق العمل',
+    'We have many free courses'=>'لدينا العديد من الدورات المجانية',
+    'you can watch navbar to help you'=>'يمكنك مشاهدة شريط التنقل لمساعدتك',
+    'I hope you like it'=>'اتمنى ان تنال اعجابكم',
+    'great teachers, and a dedicated supervisor will monitor your work'=>'سيقوم معلمون رائعون ومشرف متخصص بمراقبة عملك',
+    'Paid course'=>'دورة مدفوعة الأجر',
+    'Do you want to strengthen yourself culturally?'=>'هل تريد تقوية نفسك ثقافيا؟',
+    'You have some channels that might help you'=>'لديك بعض القنوات التي قد تساعدك',
+    'watch'=>'مشاهدة',
+    'users'=>'مستخدمين',
+    'lecture'=>'محاضرات',
+    'courses'=>'كورسات ',
+    'roles'=>'الأدوار',
+    'createuser'=>'إنشاء مستخدم',
+    'edit'=>'تعديل',
+    'delete'=>'حذف',
+    'action'=>'عمليات',
+    'video'=>'فديو',
+    'description'=>'وصف',
+    'title'=>'عنوان',
+    'createlecture'=>'انشاء محاضرة',
+    'createrole'=>'انشاء دور',
+    'createcourse'=>'انشاء كورس',
+    'view'=>'عرض',
+    'update'=>'حفظ',
+    'name'=>'اسم',
+    'create'=>'انشاء',
+];
+
+
+?>
